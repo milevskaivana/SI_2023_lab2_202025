@@ -1,0 +1,3 @@
+rootProject.name = 'SILab2'
+include 'test'
+

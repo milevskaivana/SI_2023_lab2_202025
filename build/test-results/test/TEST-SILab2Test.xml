@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-05-31T17:41:54" hostname="DESKTOP-I3SI3VK" time="0.128">
+  <properties/>
+  <testcase name="testFunction_MandatoryInformationMissing()" classname="SILab2Test" time="0.109"/>
+  <testcase name="testFunction_CheckSameCountForEmailAndUsername()" classname="SILab2Test" time="0.002"/>
+  <testcase name="testFunction_PasswordLengthLessThan8()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testFunction_AllConditionsSatisfied()" classname="SILab2Test" time="0.002"/>
+  <testcase name="testFunction_PasswordContainsSpecialCharacters()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testFunction_PasswordContainsUsername()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testFunction_SetUsernameWhenNull()" classname="SILab2Test" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
